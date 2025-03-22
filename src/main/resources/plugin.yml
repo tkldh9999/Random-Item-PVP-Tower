@@ -1,0 +1,16 @@
+name: RandomItemPvp2
+version: '1.0-SNAPSHOT'
+main: org.randomitempvp2.randomItemPvp2.RandomItemPvp2
+api-version: '1.21'
+commands:
+  start_game:
+    description: 'start the game'
+
+  stop_game:
+    description: 'stop the game'
+
+  arena:
+    description: 'make an arena'
+
+  resetarena:
+    description: 'reset the arena'
